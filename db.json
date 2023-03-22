@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "José",
+      "lastName": "Marinho",
+      "email": "jose.marinho@gmail.com",
+      "dob": "2005-05-15T03:00:00.000Z",
+      "gender": "masculino",
+      "education": "Diploma",
+      "company": "Meta",
+      "experience": 4,
+      "package": 12,
+      "id": 3
+    },
+    {
+      "firstName": "Neto",
+      "lastName": "Paulo",
+      "email": "neto@gmail.com",
+      "dob": "1999-10-21T02:00:00.000Z",
+      "gender": "masculino",
+      "education": "Graduação",
+      "company": "Vectra",
+      "experience": 1,
+      "package": 123,
+      "id": 4
+    },
+    {
+      "firstName": "José",
+      "lastName": "Pereira",
+      "email": "jose@gmail.com",
+      "dob": "2000-10-18T02:00:00.000Z",
+      "gender": "outros",
+      "education": "Pós Graduação",
+      "company": "Meta",
+      "experience": 3,
+      "package": 124,
+      "id": 5
+    }
+  ]
+}
